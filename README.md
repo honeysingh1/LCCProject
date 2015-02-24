@@ -1,2 +1,3 @@
-# LCCProject
-Senior Design project- A web scheduling application
+README
+
+Lafayette Crisis Center Project Code
